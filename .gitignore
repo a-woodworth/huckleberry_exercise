@@ -1,0 +1,16 @@
+# Ignore vs code files
+.vscode
+
+# Ignore sassfiles
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# General
+.DS_Store
+
+# Exercise gitignore files, adding but not planning to use local server/npm
+.cache
+dist
+node_modules
